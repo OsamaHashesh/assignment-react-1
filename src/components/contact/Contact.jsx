@@ -4,7 +4,7 @@ export default function Contact() {
   return (
     <section className='contact pt-5'>
       <div>
-        <h2 className='text-uppercase pt-5'>conatct section</h2>
+        <h2 className='text-uppercase pt-5'>contact section</h2>
 <div className='under-line'>
          <div className='line1'></div>
          <i class="fa-solid fa-star"></i>

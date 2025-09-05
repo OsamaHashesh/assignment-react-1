@@ -10,10 +10,11 @@ import EndComponent from './components/end-component/EndComponent';
 import About from './components/about/About';
 import Home from './components/home/Home';
 import Portfolio from './components/portfolio/Portfolio';
-import Contact from './components/contact/contact';
+
 import Layout from './components/layout/Layout';
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import NotFound from './components/notFound/NotFound';
+import Contact from './components/contact/Contact';
 
 
 
