@@ -47,12 +47,13 @@ export default function Portfolio() {
                 </div>
             </div>
              
+          
            <div className="col-md-4">
                 <div className="img-inner border position-relative rounded-3">
                     <div className='img-layer w-100 h-100 rounded-3 position-absolute'>
                       <i class="fa-solid fa-plus"></i>
                     </div>
-                   <img src="src\images\port2.png" className='w-100 h-100 rounded-3'  alt="Cake" />
+                   <img src="images\port2.png" className='w-100 h-100 rounded-3'  alt="Cake" />
                 </div>
             </div>
 
@@ -61,7 +62,7 @@ export default function Portfolio() {
                     <div className='img-layer w-100 h-100 rounded-3 position-absolute'>
                       <i class="fa-solid fa-plus"></i>
                     </div>
-                   <img src="src\images\port3.png" className='w-100 h-100 rounded-3'  alt="Red house" />
+                   <img src="images\port3.png" className='w-100 h-100 rounded-3'  alt="Red house" />
                 </div>
             </div>
                
@@ -70,7 +71,7 @@ export default function Portfolio() {
                     <div className='img-layer w-100 h-100 rounded-3 position-absolute'>
                       <i class="fa-solid fa-plus"></i>
                     </div>
-                   <img src="src\images\poert1.png" className='w-100 h-100 rounded-3'  alt="wood house" />
+                   <img src="images\poert1.png" className='w-100 h-100 rounded-3'  alt="wood house" />
                 </div>
             </div>
              
@@ -79,7 +80,7 @@ export default function Portfolio() {
                     <div className='img-layer w-100 h-100 rounded-3 position-absolute'>
                       <i class="fa-solid fa-plus"></i>
                     </div>
-                   <img src="src\images\port2.png" className='w-100 h-100 rounded-3'  alt="Cake" />
+                   <img src="images\port2.png" className='w-100 h-100 rounded-3'  alt="Cake" />
                 </div>
             </div>
 
@@ -88,7 +89,7 @@ export default function Portfolio() {
                     <div className='img-layer w-100 h-100 rounded-3 position-absolute'>
                       <i class="fa-solid fa-plus"></i>
                     </div>
-                   <img src="src\images\port3.png" className='w-100 h-100 rounded-3'  alt="Red house" />
+                   <img src="images\port3.png" className='w-100 h-100 rounded-3'  alt="Red house" />
                 </div>
             </div>
 
