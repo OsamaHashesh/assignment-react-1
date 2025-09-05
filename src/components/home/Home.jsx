@@ -5,7 +5,7 @@ export default function Home() {
    <section className='home '>
      <div>
         <div className='home-img'>
-            <img className='w-100 h-100' src="src\images\avataaars.svg" alt="Young man" />
+            <img className='w-100 h-100' src="images\avataaars.svg" alt="Young man" />
         </div>
       <h1 className='text-uppercase'>start Framework</h1>
       <div className='under-line'>
