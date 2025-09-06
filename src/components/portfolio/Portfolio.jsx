@@ -41,10 +41,10 @@ export default function Portfolio() {
                 </div>
                 </button> 
 
-<div class="modal fade" id={`exampleModalToggle${image.id}`} aria-hidden="true" aria-labelledby="exampleModalToggleLabel" tabindex="-1">
-  <div class="modal-dialog modal-dialog-centered">
-    <div class="modal-content">
-      <div class="modal-body">
+<div className="modal fade" id={`exampleModalToggle${image.id}`} aria-hidden="true" aria-labelledby="exampleModalToggleLabel" tabIndex="-1">
+  <div className="modal-dialog modal-dialog-centered">
+    <div className="modal-content">
+      <div className="modal-body">
        <img src={image.imgPath} className='w-100 h-100 rounded-3'  alt={image.alt} />
       </div>
     </div>
@@ -64,10 +64,10 @@ export default function Portfolio() {
                 </div>
                 </button> 
 
-<div class="modal fade" id="exampleModalToggle1" aria-hidden="true" aria-labelledby="exampleModalToggleLabel" tabindex="-1">
-  <div class="modal-dialog modal-dialog-centered">
-    <div class="modal-content">
-      <div class="modal-body">
+<div className="modal fade" id="exampleModalToggle1" aria-hidden="true" aria-labelledby="exampleModalToggleLabel" tabIndex="-1">
+  <div className="modal-dialog modal-dialog-centered">
+    <div className="modal-content">
+      <div className="modal-body">
        <img src="images\port1.png" className='w-100 h-100 rounded-3'  alt="wood house" />
       </div>
     </div>
@@ -86,10 +86,10 @@ export default function Portfolio() {
                 </div>
                 </button> 
 
-<div class="modal fade" id="exampleModalToggle2" aria-hidden="true" aria-labelledby="exampleModalToggleLabel" tabindex="-1">
-  <div class="modal-dialog modal-dialog-centered">
-    <div class="modal-content">
-      <div class="modal-body">
+<div className="modal fade" id="exampleModalToggle2" aria-hidden="true" aria-labelledby="exampleModalToggleLabel" tabIndex="-1">
+  <div className="modal-dialog modal-dialog-centered">
+    <div className="modal-content">
+      <div className="modal-body">
        <img src="images\port2.png" className='w-100 h-100 rounded-3'  alt="Cake" />
       </div>
     </div>
@@ -109,10 +109,10 @@ export default function Portfolio() {
                 </button> 
 
 
-<div class="modal fade" id="exampleModalToggle3" aria-hidden="true" aria-labelledby="exampleModalToggleLabel" tabindex="-1">
-  <div class="modal-dialog modal-dialog-centered">
-    <div class="modal-content">
-      <div class="modal-body">
+<div className="modal fade" id="exampleModalToggle3" aria-hidden="true" aria-labelledby="exampleModalToggleLabel" tabIndex="-1">
+  <div className="modal-dialog modal-dialog-centered">
+    <div className="modal-content">
+      <div className="modal-body">
        <img src="images\port3.png" className='w-100 h-100 rounded-3'  alt="Red house" />
       </div>
     </div>
@@ -130,10 +130,10 @@ export default function Portfolio() {
                 </div>
                 </button> 
 
-<div class="modal fade" id="exampleModalToggle1" aria-hidden="true" aria-labelledby="exampleModalToggleLabel" tabindex="-1">
-  <div class="modal-dialog modal-dialog-centered">
-    <div class="modal-content">
-      <div class="modal-body">
+<div className="modal fade" id="exampleModalToggle1" aria-hidden="true" aria-labelledby="exampleModalToggleLabel" tabIndex="-1">
+  <div className="modal-dialog modal-dialog-centered">
+    <div className="modal-content">
+      <div className="modal-body">
        <img src="images\port1.png" className='w-100 h-100 rounded-3'  alt="wood house" />
       </div>
     </div>
@@ -152,10 +152,10 @@ export default function Portfolio() {
                 </div>
                 </button> 
 
-<div class="modal fade" id="exampleModalToggle2" aria-hidden="true" aria-labelledby="exampleModalToggleLabel" tabindex="-1">
-  <div class="modal-dialog modal-dialog-centered">
-    <div class="modal-content">
-      <div class="modal-body">
+<div className="modal fade" id="exampleModalToggle2" aria-hidden="true" aria-labelledby="exampleModalToggleLabel" tabIndex="-1">
+  <div className="modal-dialog modal-dialog-centered">
+    <div className="modal-content">
+      <div className="modal-body">
        <img src="images\port2.png" className='w-100 h-100 rounded-3'  alt="Cake" />
       </div>
     </div>
@@ -175,10 +175,10 @@ export default function Portfolio() {
                 </button> 
 
 
-<div class="modal fade" id="exampleModalToggle3" aria-hidden="true" aria-labelledby="exampleModalToggleLabel" tabindex="-1">
-  <div class="modal-dialog modal-dialog-centered">
-    <div class="modal-content">
-      <div class="modal-body">
+<div className="modal fade" id="exampleModalToggle3" aria-hidden="true" aria-labelledby="exampleModalToggleLabel" tabIndex="-1">
+  <div className="modal-dialog modal-dialog-centered">
+    <div className="modal-content">
+      <div className="modal-body">
        <img src="images\port3.png" className='w-100 h-100 rounded-3'  alt="Red house" />
       </div>
     </div>

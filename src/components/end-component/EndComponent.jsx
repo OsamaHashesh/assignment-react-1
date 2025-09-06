@@ -1,10 +1,10 @@
-import React from 'react'
+import React from 'react';
 
-import '../../../node_modules/@fortawesome/fontawesome-free/css/all.min.css'
+import '../../../node_modules/@fortawesome/fontawesome-free/css/all.min.css';
 
 export default function EndComponent() {
 
-    let icons = [
+    const iconsFortAwesome = [
             'fa-brands fa-facebook-f',
             ' fa-brands fa-twitter',
 'fa-brands fa-linkedin-in' ,   
@@ -27,19 +27,7 @@ export default function EndComponent() {
                 <div className='col-md-4'>
                     <div className="inner">
                         <h4 className='text-uppercase'>AROUND THE WEB</h4>
-
-
- <div className='icons'>
-                        {
-                           
-            icons.map((icon) => (
-
-      <i className={icon}></i>
-                      
-            )
-            )
-          }
-          </div>
+ <div className='icons'>{iconsFortAwesome.map((icon) => (<i className={icon}></i>))}</div>
 
                       {/* <div className='icons'>
 
@@ -47,9 +35,7 @@ export default function EndComponent() {
 <i class="fa-brands fa-twitter"></i>
 <i class="fa-brands fa-linkedin-in"></i>    
 <i class="fa-solid fa-globe"></i>
-
                       </div> */}
-
 
                     </div>
                 </div>

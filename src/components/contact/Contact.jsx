@@ -7,7 +7,7 @@ export default function Contact() {
         <h2 className='text-uppercase pt-5'>contact section</h2>
 <div className='under-line'>
          <div className='line1'></div>
-         <i class="fa-solid fa-star"></i>
+         <i className="fa-solid fa-star"></i>
           <div className='line2'></div>
       </div>
         <div className=''>
