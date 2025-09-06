@@ -3,6 +3,7 @@ height: 600px;
 }
 
 
+
 /* navbar */
 .navbar{
   .active{
@@ -188,6 +189,7 @@ margin-top: 5px;
     font-size: 80px;
     margin-top: 20%;
   }
+  
   background-color: #1aba9fa9;
   transition: 1s;
   opacity: 0;
