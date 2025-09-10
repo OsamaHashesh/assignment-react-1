@@ -8,7 +8,7 @@ export default function About() {
                     <h2 className='text-uppercase py-3'>about component</h2>
                     <div className='under-line'>
          <div className='line1'></div>
-         <i class="fa-solid fa-star"></i>
+         <i className="fa-solid fa-star"></i>
           <div className='line2'></div>
       </div>
 
