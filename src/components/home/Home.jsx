@@ -10,7 +10,7 @@ export default function Home() {
       <h1 className='text-uppercase'>start Framework</h1>
       <div className='under-line'>
          <div className='line1'></div>
-         <i class="fa-solid fa-star"></i>
+         <i className="fa-solid fa-star"></i>
           <div className='line2'></div>
       </div>
       <span className='text-capitalize'>Graphic Artist - Web Designer - Illustrator</span>
